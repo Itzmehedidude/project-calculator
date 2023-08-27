@@ -58,7 +58,7 @@ h1{
     margin: 30px;
     font-size: 50px;
     background: linear-gradient(180deg, red 30%, rgb(173, 17, 235) 100%);
-    -webkit-background-clip: text;
+    -webkit-background-clip:text;
     -webkit-text-fill-color: transparent;
 }
 footer{
